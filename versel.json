@@ -23,12 +23,8 @@
         "src": "/(.*)",
         "dest": "django_project/wsgi.py"
       }
-    ],
-    "rewrites": [
-        { "source": "/(.*)", "destination": "/" }
-      ]
-  }
-
+    ]
+}
  
   
   
